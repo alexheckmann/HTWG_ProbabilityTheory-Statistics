@@ -1,4 +1,4 @@
-# R-Programming
+<h1>Probability Theory & Statistics</h1>
 This repository contains scripts used for statistics & probability theory, as well as the mathematical basics (in German).
 <ul>
   <li><i><strong>Mathematik für Wirtschaftsinformatiker II.pdf</strong></i>: Contains the basics about single variable and multi variable calculus applied to an economic background and guides on how to solve specific problems using Maple CAS</li>
