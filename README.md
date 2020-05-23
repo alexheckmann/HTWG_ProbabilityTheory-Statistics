@@ -1,7 +1,7 @@
 # R-Programming
 This repository contains scripts used for statistics & probability theory, as well as the mathematical basics (in German).
 <ul>
-<li>Mathematik für Wirtschaftsinformatiker II.pdf: Contains the basics about single variable and multi variable calculus applied to an economic background and guides on how to solve specific problems using Maple CAS<li/>
+<li>Mathematik für Wirtschaftsinformatiker II.pdf: Contains the basics about single variable and multi variable calculus applied to an economic background and guides on how to solve specific problems using Maple CAS</li>
 <li>Wahrscheinlichkeitstheorie & Statistik.pdf: Contains the basics about descriptive and inductive statistics and probability theory and guides on how to solve specific problems using the R language</li>
 <li>confidence-interval.R: Contains the code for a function calculating the boundaries of a confidence interval, given the sample size, the parameters of the normal distribution and the wanted confidence level</li>
 <li>get-mode.R: Contains the code for a function calculating the mode of a given vector</li>
